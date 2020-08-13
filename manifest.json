@@ -17,6 +17,9 @@
     "32": "chrome/skin/icon32x32.png",
     "64": "chrome/skin/icon64x64.png"
   },
+  "background": {
+  "scripts": ["background-script.js"]
+  },
   "legacy": {
     "type": "xul",
     "options": {
